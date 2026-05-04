@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Santiago%20Fuenmayor&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Valencia%2C%20Spain&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Santiago%20Fuenmayor%20Ruiz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Valencia%2C%20Spain&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9E9EFF&center=true&vCenter=true&width=500&lines=Building+web+apps+from+zero+to+production.;Full-Stack+%7C+IoT+%7C+UX%2FUI+%7C+Game+Dev;Open+to+work+%E2%80%94+let%27s+build+something." alt="Typing SVG" />
@@ -70,13 +70,9 @@ Looking for a team to join full-time where I can keep growing and ship things th
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=santifuenma&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=santifuenma&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santifuenma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santifuenma&layout=compact&theme=tokyonight&hide_border=true" height="145"/>
-</p>
 
 ---
 
