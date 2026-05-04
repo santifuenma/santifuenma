@@ -56,8 +56,8 @@ Looking for a team to join full-time where I can keep growing and ship things th
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santifuenma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santifuenma&layout=compact&theme=tokyonight&hide_border=true" height="145"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=santifuenma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="145](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=santifuenma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=santifuenma&layout=compact&theme=tokyonight&hide_border=true" height="145](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=santifuenma&layout=compact&theme=tokyonight&hide_border=true)"/>
 </p>
 
 ---
