@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Santiago%20Fuenmayor%20Ruiz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Valencia%2C%20Spain&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Santiago%20Fuenmayor%20Ruiz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Valencia%2C%20Spain&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9E9EFF&center=true&vCenter=true&width=500&lines=Building+web+apps+from+zero+to+production.;Full-Stack+%7C+IoT+%7C+UX%2FUI+%7C+Game+Dev;Open+to+work+%E2%80%94+let%27s+build+something." alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 ### About
 
-Full-Stack Developer, graduated in Interactive Technologies from UPV (2026). I've delivered production websites to real clients, connected Arduino boards to real-time dashboards, and designed AI behavior for game characters in Unity — I care about the full journey of a product, from the data schema to the interface details. Mainly working with TypeScript, Next.js, Supabase, and PostgreSQL.
+Software Engineer, graduated in Interactive Technologies from UPV (2026). I've delivered production websites to real clients, connected Arduino boards to real-time dashboards, and designed AI behavior for game characters in Unity — I care about the full journey of a product, from the data schema to the interface details. Mainly working with TypeScript, Next.js, Supabase, and PostgreSQL.
 
 Looking for a team to join full-time where I can keep growing and ship things that matter.
 
