@@ -11,6 +11,9 @@
   <a href="mailto:sanfuenmayor@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.santiagofuenmayorruiz.com">
+    <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=for-the-badge" />
 </p>
 
@@ -18,7 +21,7 @@
 
 ### About
 
-Full-Stack Developer finishing my degree in Interactive Technologies at UPV (2026). I build complete products — from the database schema to the last pixel of the UI. I've shipped real software for real clients, connected hardware to the cloud, and made games from scratch.
+Full-Stack Developer, graduated in Interactive Technologies from UPV (2026). I've delivered production websites to real clients, connected Arduino boards to real-time dashboards, and designed AI behavior for game characters in Unity — I care about the full journey of a product, from the data schema to the interface details. Mainly working with TypeScript, Next.js, Supabase, and PostgreSQL.
 
 Looking for a team to join full-time where I can keep growing and ship things that matter.
 
@@ -44,10 +47,12 @@ Looking for a team to join full-time where I can keep growing and ship things th
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Tools & Other**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,10 +65,12 @@ Looking for a team to join full-time where I can keep growing and ship things th
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Modern Home Catalog](#)** | Production web catalog for a real furniture store — inventory, real-time display, image pipeline | `Next.js` `TypeScript` `Supabase` `Cloudinary` |
-| **[ATMOS](#)** | IoT environmental monitoring — Arduino → BLE → Android app → REST backend → web dashboard | `IoT` `Arduino` `REST API` `Android` |
-| **[AURA](#)** | Smart crib prototype with Android app for real-time monitoring and hardware control | `Android` `IoT` |
-| **[MYLO: TFS](#)** | 3D game prototype — enemy AI, dynamic lighting, exploration mechanics | `Unity` `C#` |
+| **[Modern Home Catalog](https://modernhomecatalogo.vercel.app)** · [code](https://github.com/santifuenma/ModernHome-WebCatalog) | Multi-store digital furniture catalog — 4,000+ products with real pagination and an admin panel. *In production.* | `Next.js 16` `React 19` `TypeScript` `Supabase` `Cloudinary` |
+| **[GP77 Architecture Studio](https://www.gp77ca.com/)** · [code](https://github.com/santifuenma/gp77-web) | Corporate site for an architecture & construction studio, with fluid page transitions and a mosaic gallery. *In production.* | `React` `Vite` `GSAP` `Framer Motion` `Lenis` |
+| **[Kosmos](https://kosmos-bay-nine.vercel.app)** · [code](https://github.com/santifuenma/kosmos) | Behavioral analysis platform for novice traders — measures coherence between plan and execution, not P&L. *Final thesis (TFG).* | `Next.js 16` `React 19` `TypeScript` `Prisma` `SQLite` `NextAuth` `Recharts` |
+| **[A1AN — Safe&Sound Robotics](https://a1an-web.vercel.app)** · [code](https://github.com/santifuenma/a1an-web) | Web interface for A1AN, an assistive robot helping people with reduced mobility through rehab exercises and monitoring. *In production.* | `JavaScript` `Supabase` `PostgreSQL` `ROS 2` `ROSBridge` |
+| **[Mylo: The Firefly Scout](https://www.santiagofuenmayorruiz.com/#proyectos)** | 3D Unity game with enemy AI and a dynamic lighting system. | `Unity` `C#` |
+| **[ATMOS](https://github.com/santifuenma/ProyectoBiometria)** | CO₂ and temperature monitoring via a BLE beacon on Arduino, a PHP API, and an Android app. | `Arduino/C++` `Android/Java` `PHP` `MySQL` |
 
 ---
 
